@@ -1,1 +1,1 @@
-console.log('\'Allo \'Allo!');
+var snd = new Audio("audio/wood-block.wav");
